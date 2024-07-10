@@ -6,7 +6,6 @@ cache/*
 coverage/*
 node_modules/*
 public/javascript/ActionheroWebsocketClient.js
-dist
 
 # Node / NPM
 npm-debug.log
